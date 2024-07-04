@@ -1,6 +1,6 @@
 # Projeto: Processamento de Sinal de Áudio com Cancelamento de Ruído e Equalização
 
-Este projeto envolve o desenvolvimento de um circuito capaz de processar um sinal de áudio contaminado com ruído, aplicar a equalização desejada e gerar um sinal de saída com ruído reduzido e equalizado. Além disso, o sistema deve fornecer uma potência RMS média de 1 W para as caixas de som.
+Este projeto envolve o desenvolvimento de um circuito feito no LTSpice capaz de processar um sinal de áudio contaminado com ruído, aplicar a equalização desejada e gerar um sinal de saída com ruído reduzido e equalizado. Além disso, o sistema deve fornecer uma potência RMS média de 1 W para as caixas de som.
 
 ## Estrutura do Projeto
 
